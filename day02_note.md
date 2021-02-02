@@ -5,7 +5,7 @@
 
 - Refer to using index values and curly braces:
 
-`echo ${arr[0]} ${arr[1]}`
+ - `echo ${arr[0]} ${arr[1]}`
 
  - `${arr[*]}` refers to all values in the array
  - `${!arr[*]}` shows all index values currently in use
