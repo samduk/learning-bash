@@ -1,9 +1,0 @@
-- Write a script with the name servicemon. This script should monitor the availability of a service, of which the name has to be specified as a boot argument for the script. The script would run indefinitely, and if the service that it monirots stops, it should do three things:
-  - Restart the service
-  - Write a message to syslog
-  - Send an email message to the root user
-
-
-  Note: you can run the bash in debugging mode.
-  Eg:
-    bash -x servicemon http
