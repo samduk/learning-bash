@@ -13,3 +13,5 @@
 
 - Refer array_ex
 - My question is why "four" is not printing and what does that fifth syntax mean? Need to google during my recess time
+
+- I understood why four is not printing and what fifth syntax mean ;)
